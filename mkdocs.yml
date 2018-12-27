@@ -1,7 +1,7 @@
 site_name: Hackland Docs
 nav:
+ - Home: index.md
   - Intro: intro.md
-# - Home: index.md
   - Tools:
     - Tools:      'tools/index.md'
     - CNC-CAD:    'tools/cnc/cad.md'
