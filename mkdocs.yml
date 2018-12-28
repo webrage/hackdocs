@@ -6,7 +6,7 @@ nav:
     - CNC-MC:     'tools/cnc/machine.md'
   - About:
     - Hackland: 'about/hackland.md'
-    - Contrib:  'about/contributing.md'
+    - 'Hackland Docs':  'about/docs.md'
 
 
 #theme: 'material'
