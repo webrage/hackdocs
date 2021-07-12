@@ -8,7 +8,7 @@
 ##About Hackland hackspace
 Hackland is an independent, not for profit Hackspace in central Auckland for Ukelele, Coffee, Ethereum, Bitcoin, 3D Printing, CNC, Woodworking, Metalworking, Electronics, Coding, Sewing, Arts and Crafts or just hanging out with creative people.
 
-###Guiding Principles
+###Guiding Principles 
 
 **Change and Experimentation** is welcome, even if you're not an expert or not sure where something is going. Everything in the space is hackable unless it has a "Do Not Hack" sticker on it. If it looks expensive or hacking it would take longer than 6 hours to put back, please check with the group or post on the Slack channel or Loomio before taking it to bits.
 
